@@ -18,11 +18,14 @@ if (guestList.includes(guestName)) {
 }
 
 
-//fizzbuzz problem
+// fizzbuzz problem
 
 let output = [];
 let count = 1;
 
 function fizzbuzz() {
-    output
+    output.push(count);
+    count++;
+
+    console.log(output);
 }
