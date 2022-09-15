@@ -1,0 +1,1 @@
+alert("went for shopping & did not s");
