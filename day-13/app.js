@@ -1,1 +1,1 @@
-console.log("Did nothing today");
+alert("Did nothing today");
